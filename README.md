@@ -1,4 +1,4 @@
-Hey there, I'm **Roozbeh**.
+Hey there, I'm Roozbeh.
 
 At the moment, I'm taking a break from `Computer Engineering` at the University of Waterloo and building [Butler](https://usebutler.app).
 
