@@ -1,5 +1,7 @@
-Hey there, I'm Roozbeh.
+Hey there, I'm `Roozbeh`.
 
-At the moment, I'm taking a break from Computer Engineering at the `University of Waterloo` and building [Butler](https://butler.ai).
+At the moment, I'm taking a break from Computer Engineering at the University of Waterloo and building [Butler](https://butler.ai).
 
+<pre>
 [Email](mailto:rooz@butler.ai) • [LinkedIn](https://linkedin.com/in/roozbehali) • [Instagram](https://instagram.com/roozbehsali) • [X](https://x.com/roozbehsali)
+</pre>
